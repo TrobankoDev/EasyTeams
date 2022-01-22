@@ -1,0 +1,11 @@
+name: EasyTeams
+version: '${project.version}'
+main: dev.trobanko.easyteams.EasyTeams
+api-version: 1.18
+authors: [ Trobanko ]
+description: Allows you to easily add teams
+commands:
+  setup:
+    description: Setup the teams
+  startgame:
+    description: Start the game
